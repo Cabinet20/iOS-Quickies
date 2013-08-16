@@ -1,6 +1,5 @@
 //
 //  BGQuickStuff.h
-//  MyiTunes
 //
 //  Created by Brendan Gunning on 18/05/2012.
 //  Copyright (c) 2012 www.gunningfor.me All rights reserved.
